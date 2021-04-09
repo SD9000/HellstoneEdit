@@ -1,0 +1,3 @@
+displayName = Hellstone Bar Edit
+author = SD9k
+version = 0.2
